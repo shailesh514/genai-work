@@ -23,3 +23,5 @@
 | Base model vs chat model | Pre-trained only vs fine-tuned to follow instructions. You call chat models. | Raw vs trained to talk. | S10; S12 |
 | Hugging Face | The public hub where open-weight models, datasets and tokenizers are published. Ollama and Groq run models from it. | Where open models come from. | S12; S24 |
 | Open-weight vs frontier | Downloadable weights (Llama, Qwen, gpt-oss) vs vendor-API-only (GPT, Claude, Gemini). | Can you run it yourself? | S10; S12; S57 |
+
+
