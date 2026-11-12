@@ -12,3 +12,8 @@ module01/s10_matrix_output.md
 
 # Instructor-only material (decks, delivery guides) - never push
 /S[0-9]*/
+
+# my own session folders (not instructor material)
+!/s21/
+!/s22/
+!/s23/
